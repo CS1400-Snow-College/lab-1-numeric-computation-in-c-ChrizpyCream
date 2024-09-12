@@ -1,14 +1,22 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
-decimal min = decimal.MinValue;
-decimal max = decimal.MaxValue;
-Console.WriteLine($"The range of the decimal type is {min} to {max}");
+// Challenge 4
+// big number 
+double a = 1.15e+25; // 1.15 * 10^30
+double b = 5.76e+45; // 5.76 * 10^45
+double c = a + b;
+Console.WriteLine(c);
 
-double a = 1.0;
-double b = 3.0;
-Console.WriteLine(a / b);
 
-decimal c = 1.0M;
-decimal d = 3.0M;
-Console.WriteLine(c / d);
+
+
+// Small number calculations
+double a = 1.89e-20; // 1.89 * 10^-20
+double b = 1.22e-15; // 1.22 * 10^-20
+double c = a + b;
+Console.WriteLine(c);
+
+
+double circumference = * Math.PI * radius;
+
