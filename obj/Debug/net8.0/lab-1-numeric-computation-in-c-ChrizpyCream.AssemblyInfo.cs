@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-1-numeric-computation-in-c-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+882b6027b9ab8d1b77df7817b4eee80b001d3522")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f144566b6f29fe007e7b3a37c4967e549cd4368a")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-1-numeric-computation-in-c-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-1-numeric-computation-in-c-ChrizpyCream")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
